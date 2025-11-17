@@ -87,3 +87,21 @@ streamlit
 pandas
 seaborn
 matplotlib
+
+---
+
+## 🔗 관련 링크 (External URL)
+
+* [Streamlit 공식 문서](https://docs.streamlit.io/)
+* [프로젝트 발표 자료 (Notion)](https://...)
+* [참고한 블로그](https://...)
+
+---
+
+## 🧑‍🤝‍🧑 팀원 소개
+
+| 이름 | 역할 | GitHub |
+| :---: | :---: | :---: |
+| **차은우** | [예: 프로젝트 기획, UI 개발] | [GitHub @eunwoo](https://github.com/eunwoo) |
+| **변우석** | [예: 데이터 처리 로직, 기능 구현] | [GitHub @wooseok](https://github.com/wooseok) |
+| [팀원3] | [담당 역할] | [GitHub ID] |
