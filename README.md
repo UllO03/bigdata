@@ -12,7 +12,7 @@
 4.  [시연 동영상](#-시연-동영상)
 5.  [설치 및 실행 방법 (코드 Push)](#-설치-및-실행-방법-코드-push)
 6.  [관련 링크 (External URL)](#-관련-링크-external-url)
-7.  [팀원 소개](#-팀원-소개)
+7.  [팀원 소개](#team-members)
 
 ---
 
@@ -99,10 +99,9 @@ matplotlib
 
 ---
 
-##  팀원 소개
+## <a id="team-members"></a>🧑‍🤝‍🧑 팀원 소개
 
 | 이름 | 역할 | GitHub |
 | :---: | :---: | :---: |
-| **차은우** | [예: 프로젝트 기획, UI 개발] | [GitHub @eunwoo](https://github.com/eunwoo) |
-| **변우석** | [예: 데이터 처리 로직, 기능 구현] | [GitHub @wooseok](https://github.com/wooseok) |
-| [팀원3] | [담당 역할] | [GitHub ID] |
+| **김연준** | [예: 프로젝트 기획, UI 개발] | [GitHub @eunwoo](https://github.com/eunwoo) |
+| **최도현** | [예: 데이터 처리 로직, 기능 구현] | [GitHub @wooseok](https://github.com/wooseok) |
