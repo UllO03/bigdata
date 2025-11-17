@@ -86,7 +86,7 @@
 streamlit
 pandas
 seaborn
-matplotlib
+matplotlib```
 
 ---
 
