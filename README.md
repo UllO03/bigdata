@@ -100,5 +100,5 @@ matplotlib
 
 | 이름 | 역할 | GitHub |
 | :---: | :---: | :---: |
-| **김연준** | [20220998] | [GitHub @kpqzm](https://github.com/kpqzm) |
-| **최도현** | [20220973] | [GitHub @UllO03](https://github.com/UllO03) |
+| **김연준** | [프로젝트 세부 기능 및 디테일 수정] | [GitHub @kpqzm](https://github.com/kpqzm) |
+| **최도현** | [프로젝트 기획 및 UI 구현] | [GitHub @UllO03](https://github.com/UllO03) |
