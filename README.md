@@ -103,5 +103,5 @@ matplotlib
 
 | 이름 | 역할 | GitHub |
 | :---: | :---: | :---: |
-| **김연준** | [예: 프로젝트 기획, UI 개발] | [GitHub @eunwoo](https://github.com/eunwoo) |
-| **최도현** | [예: 데이터 처리 로직, 기능 구현] | [GitHub @wooseok](https://github.com/wooseok) |
+| **김연준** | [20220998] | [GitHub @kpqzm](https://github.com/kpqzm) |
+| **최도현** | [20220973] | [GitHub @UllO03](https://github.com/UllO03) |
