@@ -10,9 +10,8 @@
 2.  [주요 기능 (데이터 분석 내용)](#-주요-기능-데이터-분석-내용)
 3.  [프로젝트 개발 동기 (주제 선택 이유)](#-프로젝트-개발-동기-주제-선택-이유)
 4.  [시연 동영상](#-시연-동영상)
-5.  [설치 및 실행 방법 (코드 Push)](#-설치-및-실행-방법-코드-push)
-6.  [관련 링크 (External URL)](#-관련-링크-external-url)
-7.  [팀원 소개](#team-members)
+5.  [관련 링크 (External URL)](#-관련-링크-external-url)
+6.  [팀원 소개](#team-members)
 
 ---
 
@@ -69,23 +68,6 @@
 [![Streamlit CSV 분석기 시연](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
 
 > [텍스트 링크: 시연 동영상 바로가기](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
-
----
-
-## 🚀 설치 및 실행 방법 (코드 Push)
-
-이 프로젝트를 로컬 환경에서 실행하려면 다음 단계를 따르세요. "코드 Push"는 이 저장소의 코드를 가져와서(Clone) 실행하는 방법(Usage)으로 해석했습니다.
-
-### 1. `requirements.txt` 파일 생성
-프로젝트 폴더에 `requirements.txt`라는 이름의 파일을 만들고, `1.py`에서 사용된 라이브러리 목록을 아래와 같이 추가합니다.
-
-**requirements.txt**
-```txt
-streamlit
-pandas
-seaborn
-matplotlib
-```
 
 ---
 
