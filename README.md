@@ -92,8 +92,7 @@ matplotlib
 ## 🔗 관련 링크 (External URL)
 
 * [Streamlit 공식 문서](https://docs.streamlit.io/)
-* [프로젝트 발표 자료 (Notion)](https://...)
-* [참고한 블로그](https://...)
+* [참고한 AI](https://gemini.google.com/app?hl=ko)
 
 ---
 
