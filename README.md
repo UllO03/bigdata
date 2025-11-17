@@ -75,7 +75,7 @@
 
 * [Streamlit 공식 문서](https://docs.streamlit.io/)
 * [참고한 AI](https://gemini.google.com/app?hl=ko)
-* **[프로젝트 메인 코드 바로가기](https://github.com/UllO03/bigdata/blob/main/data_search.py)
+* [프로젝트 메인 코드 바로가기](https://github.com/UllO03/bigdata/blob/main/data_search.py)
 
 ---
 
