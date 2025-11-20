@@ -67,7 +67,7 @@
 
 [![Streamlit CSV 분석기 시연](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
 
-> [텍스트 링크: 시연 동영상 바로가기](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+> [텍스트 링크: 시연 동영상 바로가기]([https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://youtu.be/pBB-_Zk0Pws))
 
 ---
 
