@@ -58,17 +58,11 @@
 * Streamlit 라이브러리의 강력한 인터랙티브 기능을 학습하고 활용해보기 위한 실습 프로젝트로 이 주제를 선택하게 되었습니다.
 
 ---
-
 ## 🎬 시연 동영상
 
-프로젝트의 주요 기능을 소개하는 시연 동영상입니다.
+프로젝트의 주요 기능을 소개하는 시연 동영상입니다. 아래 이미지를 클릭하면 영상을 볼 수 있습니다.
 
-(아래 `YOUR_YOUTUBE_VIDEO_ID` 부분을 실제 유튜브 영상 ID로 변경하세요.)
-
-[![Streamlit CSV 분석기 시연](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
-
-> [텍스트 링크: 시연 동영상 바로가기]([https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID](https://youtu.be/pBB-_Zk0Pws))
-
+[![Streamlit CSV 분석기 시연](https://img.youtube.com/vi/pBB-_Zk0Pws/0.jpg)](https://youtu.be/pBB-_Zk0Pws)
 ---
 
 ## 🔗 관련 링크 (External URL)
